@@ -5,17 +5,15 @@ I focus on web development and a bit of OOP with Java.
 <br/>
 ### You can reach me at: 
 - <a target="_blank" href="https://twitter.com/helena_kurzzz">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="20px" />
-  @helena_kurzzz
-</a>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> helenakurzgon@gmail.com
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto" /> @helena_kurzzz </a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"   width="20px" height="auto" /> helenakurzgon@gmail.com
 
 ## Tech
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> **Javascript**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> **HTML**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> **CSS**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> **Java**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="20px" height="auto" /> **HTML**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20px" height="auto" /> **CSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="20px" height="auto" /> **Java**
 
 ## Learning
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> **React**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> **Php**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
