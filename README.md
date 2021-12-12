@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there,
+My name is Helena, I'm 17 and go by she/her.
+I'm currently on the last year of high school where I also study Computing.
+I focus on web development and a bit of OOP with Java.
+<br/>
+### You can reach me at: 
+- <a target="_blank" href="https://twitter.com/helena_kurzzz">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  @helena_kurzzz
+</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> helenakurzgon@gmail.com
 
-<!--
-**aaneleh/aaneleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> **Javascript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> **HTML**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> **CSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> **Java**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> **React**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> **Php**
