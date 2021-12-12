@@ -5,7 +5,7 @@ I focus on web development and a bit of OOP with Java.
 <br/>
 ### You can reach me at: 
 - <a target="_blank" href="https://twitter.com/helena_kurzzz">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" height="auto"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="auto" width="20px" />
   @helena_kurzzz
 </a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> helenakurzgon@gmail.com
