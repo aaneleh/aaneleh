@@ -17,6 +17,7 @@ I focus on web development and a bit of OOP with Java.\
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
 
+<br/>
 <div>
 <a href="https://github.com/aaneleh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaneleh&layout=compact&langs_count=7&theme=dracula"/>
