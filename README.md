@@ -17,7 +17,7 @@ I focus on web development and a bit of OOP with Java.\
 ## Learning
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
-- <img style="color: #FFF" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20px" height="auto" /> **Threejs**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20px" height="auto" /> **Threejs**
 
 <br/>
 <div>
