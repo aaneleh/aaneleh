@@ -18,3 +18,5 @@ I focus on web development and a bit of OOP with Java.\
 ## Learning
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
+
+[![DESCRIÇÃO](https://github-readme-stats.vercel.app/api/wakatime?username=aaneleh)](https://github.com/anuraghazra/github-readme-stats)
