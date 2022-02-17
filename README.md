@@ -18,6 +18,6 @@ I focus on web development and a bit of OOP with Java.\
 ## Learning
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
-
-<br>
-<figure><embed src="https://wakatime.com/share/@63a62ebf-02b8-40ab-b01b-99f672dace05/af507e33-0e54-43cb-bdc9-67f9179fad50.svg"></embed></figure>
+  
+.. image:: https://wakatime.com/share/@63a62ebf-02b8-40ab-b01b-99f672dace05/a8b9307e-73ad-4508-8e72-7a68ca364076.png
+    :target: https://wakatime.com/
