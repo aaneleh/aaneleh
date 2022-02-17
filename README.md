@@ -9,6 +9,7 @@ I focus on web development and a bit of OOP with Java.\
 
 ## Tech
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20px" height="auto" /> **Threejs**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="20px" height="auto" /> **HTML**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20px" height="auto" /> **CSS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="20px" height="auto" /> **SASS**
@@ -17,11 +18,3 @@ I focus on web development and a bit of OOP with Java.\
 ## Learning
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20px" height="auto" /> **Threejs**
-
-<br/>
-<div>
-<a href="https://github.com/aaneleh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaneleh&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaneleh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
