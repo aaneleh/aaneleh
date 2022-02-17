@@ -20,4 +20,4 @@ I focus on web development and a bit of OOP with Java.\
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
 
 <br>
-<figure><embed src="https://wakatime.com/share/@63a62ebf-02b8-40ab-b01b-99f672dace05/d4945bb2-8ed5-4eb2-9a9d-a639e882bf05.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@63a62ebf-02b8-40ab-b01b-99f672dace05/af507e33-0e54-43cb-bdc9-67f9179fad50.svg"></embed></figure>
