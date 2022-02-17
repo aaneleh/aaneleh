@@ -19,4 +19,5 @@ I focus on web development and a bit of OOP with Java.\
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@63a62ebf-02b8-40ab-b01b-99f672dace05/244b3eb5-ad0f-4c67-8f34-d13d59e7cce8.png" /></a>
+<br>
+<figure><embed src="https://wakatime.com/share/@63a62ebf-02b8-40ab-b01b-99f672dace05/d4945bb2-8ed5-4eb2-9a9d-a639e882bf05.svg"></embed></figure>
