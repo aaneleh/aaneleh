@@ -21,4 +21,7 @@ I focus on web development and a bit of OOP with Java.\
   
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
