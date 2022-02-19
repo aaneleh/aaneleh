@@ -28,3 +28,4 @@ Sass         25 mins         ███████████████░░
 HTML         17 mins         ██████████░░░░░░░░░░░░░░░   40.10 % 
 ```
 <!--END_SECTION:waka-->
+*Since 17 fev 2022*
