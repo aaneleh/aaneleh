@@ -22,8 +22,9 @@ I focus on web development and a bit of OOP with Java.\
 
 <!--START_SECTION:waka-->
 ```text
-Sass         25 mins         ███████████████░░░░░░░░░░   59.73 % 
-HTML         17 mins         ██████████░░░░░░░░░░░░░░░   40.10 % 
+Sass         50 mins         ████████████▓░░░░░░░░░░░░   50.75 % 
+Markdown     29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.97 % 
+HTML         19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
 ```
 <!--END_SECTION:waka-->
 *Since 17 fev 2022*
