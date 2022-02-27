@@ -25,4 +25,3 @@ I focus on web development and a bit of OOP with Java.\
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-*Since 17 fev 2022*
