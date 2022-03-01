@@ -1,7 +1,7 @@
 ## Hi there,
-My name is Helena, I'm 17 and go by she/her.\
-I'm currently on the last year of high school where I also study Computing.\
-I focus on web development and a bit of OOP with Java.\
+My name is Helena, I'm 17 and go by she/her.  
+I'm currently on the last year of high school where I also study Computing.    
+I focus on web development and a bit of OOP with Java.  
 
 
 ### You can reach me at: 
