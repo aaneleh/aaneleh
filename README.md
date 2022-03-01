@@ -23,7 +23,9 @@ I focus on web development and a bit of OOP with Java.\
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSS          2 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.75 %
+HTML         1 hr 24 mins    █████████░░░░░░░░░░░░░░░░   35.87 %
+JavaScript   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
 ```
 
 <!--END_SECTION:waka-->
