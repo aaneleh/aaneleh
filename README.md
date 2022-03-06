@@ -10,7 +10,7 @@ I focus on web development and a bit of OOP with Java.
 
 ## Tech
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20px" height="auto" /> **Threejs**
+- <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width="20px" height="auto" /> **Threejs**
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
   
