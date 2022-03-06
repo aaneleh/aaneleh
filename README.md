@@ -24,10 +24,10 @@ I focus on web development and a bit of OOP with Java.
 <!--START_SECTION:waka-->
 
 ```text
-PHP          5 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.35 %
-CSS          3 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.03 %
-HTML         1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+PHP          6 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.57 %
+CSS          3 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.58 %
+HTML         1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+JavaScript   53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
