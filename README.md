@@ -1,14 +1,13 @@
-## Hi there,
-My name is Helena, I'm 17 and go by she/her.  
-I'm currently on the last year of high school where I also study Computing.    
-I focus on web development and a bit of OOP with Java.  
+## Olá,  
+Meu nome é Helena, tenho 17 anos e uso ela/dela.  
+Atualmente estou no ultimo ano do Ensino Medio no IFRS integrado com informática.   
+Meu foco é desenvolvimento web e POO com Java.  
 
-
-### You can reach me at: 
+### Contato: 
 - <a target="_blank" href="https://twitter.com/helena_kurzzz"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto" /> @helena_kurzzz </a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"   width="20px" height="auto" /> helenakurzgon@gmail.com
 
-## Tech
+## Linguagens:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
 - <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width="20px" height="auto" /> **Threejs**
   
@@ -20,11 +19,10 @@ I focus on web development and a bit of OOP with Java.
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="20px" height="auto" /> **Java**
 
-## Learning
+## Aprendendo
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
-
   
-
+ 
 <!--START_SECTION:waka-->
 
 ```text
