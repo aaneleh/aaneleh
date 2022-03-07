@@ -21,7 +21,8 @@ Meu foco é desenvolvimento web e POO com Java.
 
 ## Aprendendo
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
-  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="20px" height="auto" /> **Tailwind**
+
  
 <!--START_SECTION:waka-->
 
