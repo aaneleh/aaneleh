@@ -28,6 +28,8 @@ Meu foco é desenvolvimento web e POO com Java.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
 
 
+[![wakatime](https://wakatime.com/badge/user/63a62ebf-02b8-40ab-b01b-99f672dace05.svg)](https://wakatime.com/@63a62ebf-02b8-40ab-b01b-99f672dace05)
+
 <!--START_SECTION:waka-->
 
 ```text
