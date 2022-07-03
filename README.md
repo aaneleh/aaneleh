@@ -1,6 +1,6 @@
 ## Olá,  
 Meu nome é Helena, tenho 18 anos e uso ela/dela.  
-Atualmente estou no ultimo ano do Ensino Medio no IFRS integrado com informática.   
+Atualmente estou no último ano do Ensino Medio no IFRS integrado com informática.   
 Meu foco é desenvolvimento web e POO com Java.  
 
 ### Contato: 
