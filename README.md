@@ -27,7 +27,7 @@ Meu foco é desenvolvimento web e POO com Java.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="20px" height="auto" /> **Figma**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
 
-# Aprendendo: 
+## Aprendendo: 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="20px" height="auto" /> **Node JS**
 
 
