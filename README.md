@@ -34,10 +34,10 @@ Meu foco é desenvolvimento web e POO com Java.
 <!--START_SECTION:waka-->
 
 ```text
-PHP          1 hr 37 mins    █████████████▓░░░░░░░░░░░   54.71 %
-CSS          1 hr 8 mins     █████████▓░░░░░░░░░░░░░░░   38.53 %
-HTML         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+PHP    1 hr 44 mins    ██████████████▒░░░░░░░░░░   57.06 %
+CSS    1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   37.37 %
+HTML   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
