@@ -34,8 +34,7 @@ Meu foco é desenvolvimento web e POO com Java.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 11 mins    ██████████████████████▓░░   90.31 %
-Other        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
