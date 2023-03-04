@@ -1,7 +1,7 @@
 ## Olá,  
 Meu nome é Helena, tenho 18 anos e uso ela/dela.  
-Atualmente estou no último ano do Ensino Medio no IFRS integrado com informática.   
-Meu foco é desenvolvimento web e POO com Java.  
+Atualmente estou cursando Ciência da Computação  
+Meu foco é desenvolvimento Web.  
 
 ### Contato: 
 - <a target="_blank" href="https://twitter.com/helena_kurzzz"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto" /> @helena_kurzzz </a>
