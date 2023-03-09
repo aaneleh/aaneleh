@@ -10,7 +10,7 @@ Meu foco é desenvolvimento Web.
 ## Linguagens:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
-- <img style="filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="20px" height="auto" /> **Threejs**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="20px" height="auto" /> **Threejs**
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
   
