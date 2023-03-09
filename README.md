@@ -1,6 +1,6 @@
 ## Olá,  
 Meu nome é Helena, tenho 18 anos e uso ela/dela.  
-Atualmente estou cursando Ciência da Computação  
+Atualmente cursando Ciência da Computação  
 Meu foco é desenvolvimento Web.  
 
 ### Contato: 
