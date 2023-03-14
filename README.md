@@ -34,10 +34,10 @@ Meu foco é desenvolvimento Web.
 <!--START_SECTION:waka-->
 
 ```text
-CSS          6 hrs           ██████████████████▒░░░░░░   73.08 %
-HTML         1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
-JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-XML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+CSS          3 hrs 43 mins   ██████████████████▒░░░░░░   73.74 %
+HTML         1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
