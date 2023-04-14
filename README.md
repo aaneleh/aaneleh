@@ -34,11 +34,12 @@ Meu foco é desenvolvimento Web.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 5 mins     ███████████████████████▓░   94.22 %
-Python       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   2 hrs 12 mins   ████████████████████░░░░░   79.97 %
+JSON         29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Python       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
