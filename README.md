@@ -34,11 +34,9 @@ Meu foco é desenvolvimento Web.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   50 mins         ████████████████████░░░░░   80.39 %
-EJS          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   20 mins         █████████████████████▒░░░   84.98 %
+EJS          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
