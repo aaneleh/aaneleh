@@ -33,7 +33,7 @@ Meu foco é desenvolvimento Web.
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
