@@ -1,5 +1,5 @@
 ## Olá,  
-Meu nome é Helena, tenho 18 anos e uso ela/dela.  
+Meu nome é Helena, tenho 19 anos e uso ela/dela.  
 Atualmente cursando Ciência da Computação  
 Meu foco é desenvolvimento Web.  
 
