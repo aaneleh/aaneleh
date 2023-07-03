@@ -4,7 +4,8 @@ Atualmente cursando Ciência da Computação
 Meu foco é desenvolvimento Web.  
 
 ### Contato: 
-- <a target="_blank" href="https://twitter.com/helena_kurzzz"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto" /> @helena_kurzzz </a>
+- <a target="_blank" href="https://twitter.com/helena_kurzzz"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto" /> @helena_kurzzz </a
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"   width="20px" height="auto" /> helenakurzgon@gmail.com
 
 ## Linguagens e Frameworks:
