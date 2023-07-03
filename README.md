@@ -34,6 +34,6 @@ Meu foco é desenvolvimento Web.
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
 
-<div style="width: 100%; display: flex; justify-content: center">
+      
   <img style="width: 30vw" src="https://wakatime.com/share/@aaneleh/5b01596c-341e-4487-b1fa-a2a976138183.svg" />
-</div>
+
