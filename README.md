@@ -35,13 +35,4 @@ Meu foco é desenvolvimento Web.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
 
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   36 mins         █████████████████████▒░░░   85.57 %
-EJS          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-```
-
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@aaneleh/5b01596c-341e-4487-b1fa-a2a976138183.svg"></embed></figure>
