@@ -9,7 +9,9 @@ Meu foco é desenvolvimento Web.
 
 ## Linguagens e Frameworks:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="20px" height="auto" /> **Node JS**
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
@@ -17,14 +19,18 @@ Meu foco é desenvolvimento Web.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="20px" height="auto" /> **HTML**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20px" height="auto" /> **CSS**
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="20px" height="auto" /> **SASS**
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="20px" height="auto" /> **Tailwind**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="20px" height="auto" /> **Java**
  
 ## Outras ferramentas:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="20px" height="auto" /> **Visual Studio Code**
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="20px" height="auto" /> **Figma**
+  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
 
 
