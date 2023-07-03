@@ -7,12 +7,11 @@ Meu foco é desenvolvimento Web.
 - <a target="_blank" href="https://twitter.com/helena_kurzzz"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto" /> @helena_kurzzz </a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"   width="20px" height="auto" /> helenakurzgon@gmail.com
 
-## Linguagens:
+## Linguagens e Frameworks:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="20px" height="auto" /> **Node JS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="20px" height="auto" /> **Threejs**
-  
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="20px" height="auto" /> **HTML**
@@ -27,8 +26,6 @@ Meu foco é desenvolvimento Web.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="20px" height="auto" /> **Visual Studio Code**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="20px" height="auto" /> **Figma**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
-
-
 
 
 <!--START_SECTION:waka-->
