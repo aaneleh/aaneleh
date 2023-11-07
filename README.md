@@ -18,8 +18,6 @@ Meu foco é desenvolvimento Web.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="20px" height="auto" /> **React**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="20px" height="auto" /> **Php**
-  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="20px" height="auto" /> **HTML**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20px" height="auto" /> **CSS**
   
@@ -28,13 +26,7 @@ Meu foco é desenvolvimento Web.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="20px" height="auto" /> **Tailwind**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="20px" height="auto" /> **Java**
- 
-## Outras ferramentas:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="20px" height="auto" /> **Visual Studio Code**
-  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="20px" height="auto" /> **Figma**
-  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="20px" height="auto" /> **Blender**
+
 
 <br> <br>
 <img style="width: 50vw" src="https://wakatime.com/share/@aaneleh/5b01596c-341e-4487-b1fa-a2a976138183.svg" />
