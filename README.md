@@ -3,6 +3,8 @@ Meu nome é Helena, tenho 19 anos e uso ela/dela.
 Atualmente cursando Ciência da Computação  
 Meu foco é desenvolvimento Web.  
 
+[#### Portfolio](https://helenakurz.vercel.app/)
+
 ### Contato: 
 - <a target="_blank" href="https://www.linkedin.com/in/helena-kurz-1738a2256/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" height="auto" /> Helena Kurz </a>
           
@@ -22,7 +24,7 @@ Meu foco é desenvolvimento Web.
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="20px" height="auto" /> **SASS**
   
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="20px" height="auto" /> **Tailwind**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="20px" height="auto" /> **Tailwind**
 
 
 <br> <br>
