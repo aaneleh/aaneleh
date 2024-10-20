@@ -19,6 +19,8 @@ Meu foco é desenvolvimento Web.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="20px" height="auto" /> **Javascript**
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="20px" height="auto" /> **Node JS**
+          
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="20px" height="auto" /> **Java**
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20px" height="auto" /> **CSS**
   
